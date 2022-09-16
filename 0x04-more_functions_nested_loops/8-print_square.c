@@ -1,4 +1,4 @@
-#include "nain.h"
+#include "main.h"
 /**
 * print_square - function to print a square
 * @size: takes in the size of the square
