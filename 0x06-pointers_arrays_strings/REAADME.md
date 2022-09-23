@@ -1,1 +1,0 @@
-Pointer and Strings
